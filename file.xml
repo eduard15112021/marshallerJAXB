@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autoPark>
+    <autoParc>
+        <mark>audi</mark>
+        <maxSpeed>180</maxSpeed>
+        <number>5894</number>
+        <year>1989</year>
+    </autoParc>
+    <autoParc>
+        <mark>opel</mark>
+        <maxSpeed>175</maxSpeed>
+        <number>2597</number>
+        <year>2000</year>
+    </autoParc>
+    <autoParc>
+        <mark>BMW</mark>
+        <maxSpeed>185</maxSpeed>
+        <number>9756</number>
+        <year>1995</year>
+    </autoParc>
+    <autoParc>
+        <mark>Tesla</mark>
+        <maxSpeed>170</maxSpeed>
+        <number>6382</number>
+        <year>2012</year>
+    </autoParc>
+</autoPark>
